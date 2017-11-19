@@ -1,0 +1,42 @@
+h1{
+	color: blue;
+
+	text-align: center;
+	font-family: arial;
+	font-size:40pt;
+}
+
+body{
+background-color: green;
+
+}
+h2{
+	color:white;
+	text-align: center;
+	font-family: verdana;
+	font-size:30pt;
+}
+
+p
+{
+color:red;
+
+text-align: left;
+	
+	font-size:20pt;
+
+
+
+}
+
+ul{
+
+color:yellow;
+
+text-align: left;
+	
+	font-size:10pt;
+
+
+
+}
